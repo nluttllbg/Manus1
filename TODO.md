@@ -1,13 +1,13 @@
-# Lumina — Entregáveis
+# AGIJ FERT — Entregáveis
 
-## Landing page de conversão
-- Criar uma landing page responsiva em React para o Lumina, ferramenta digital de foco e planejamento pessoal.
-- Apresentar posicionamento claro, mensagem principal e chamada para ação em destaque.
-- Incluir prova social com indicadores de confiança e adoção do produto.
-- Apresentar benefícios centrados em foco, planejamento pessoal e fluidez na rotina.
-- Incluir uma seção “Como funciona” com etapas simples de uso.
-- Incluir demonstração visual refinada do produto em composição responsiva.
-- Incluir depoimentos de usuários para reforçar credibilidade e resultados percebidos.
-- Incluir CTA final com mensagem de conversão e ação principal.
-- Garantir navegação e layout responsivos para desktop, tablet e celular.
-- Aplicar animações sutis e orientadas por intenção usando framer-motion quando apropriado.
+## Landing page institucional
+- Comunicar a AGIJ FERT como referência de manejo, fertilidade e estratégia para Sorriso–MT e região.
+- Usar fotografias reais de agricultura, lavoura e solo, sem imagens geradas por IA.
+- Incluir navegação responsiva por âncoras para soluções, processo, resultados, dúvidas e contato.
+- Apresentar soluções de fertilidade do solo, nutrição/manejo e acompanhamento próximo.
+- Explicar o processo em três movimentos: entender a área, desenhar o caminho e acompanhar a resposta.
+- Incluir FAQ funcional com abertura e fechamento de respostas.
+- Incluir contato via WhatsApp para (66) 99651-2455 com mensagem pré-escrita.
+- Aplicar design sofisticado, animações sutis e responsividade para desktop, tablet e celular.
+- Registrar as fontes, autores e licenças das fotografias utilizadas em PHOTO_SOURCES.md.
+- Preparar o projeto para publicação sem publicar nem enviar para um repositório escolhido por suposição.
